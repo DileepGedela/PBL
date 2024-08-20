@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f4;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  text-align:center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.MuiButton-root {
+  font-size: 16px;
+  padding: 10px 20px;
+}
+
+.MuiAppBar-root {
+  background-color: #1976d2; /* Primary color */
+}
+
+.MuiGrid-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.MuiGrid-item {
+  margin-top: 20px;
+}
+
+.MuiTypography-h6 {
+  font-weight: bold;
+}
